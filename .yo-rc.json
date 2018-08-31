@@ -28,6 +28,7 @@
     "clientPackageManager": "yarn",
     "clientFramework": "angularX",
     "cacheProvider": "no",
-    "enableHibernateCache": false
+    "enableHibernateCache": false,
+    "herokuDeployType": "jar"
   }
 }
